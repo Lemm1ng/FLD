@@ -1,5 +1,5 @@
 # FLD
-### Face Landmark Recognition
+### Face Landmark Detection
 
 This project is devoted to the following Kaggle Competition:
 
